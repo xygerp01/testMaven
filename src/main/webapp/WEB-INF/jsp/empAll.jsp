@@ -25,7 +25,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <body>
 	<table border="1">
     	<tr>
-    		<th>编 号</th>
+    		<th>编号</th>
     		<th>人员</th>
     		<th>工作</th>
     		<th>管理员</th>
